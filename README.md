@@ -1,4 +1,4 @@
-# ⚡ VINICIUS GARBUIO DE CASTRO PEREIRA
+⚡ VINICIUS GARBUIO DE CASTRO PEREIRA
 
 <div align="center">
 
@@ -6,7 +6,7 @@
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:071A2F,100:00F7FF&height=180&section=header&text=VINICIUS%20GARBUIO&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20%7C%20AI%20%7C%20Automation%20%7C%20Entrepreneurship&descAlignY=60&descSize=16" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A0B00,45:3A1700,75:FF6B00,100:FF9D2E&height=210&section=header&text=VINICIUS%20GARBUIO&fontSize=44&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=SOFTWARE%20%7C%20AI%20%7C%20AUTOMATION%20%7C%20ENTREPRENEURSHIP&descAlignY=61&descSize=15&stroke=FF8C00&strokeWidth=1" />
 
 <br>
 
@@ -20,11 +20,8 @@
 
 </div>
 
----
+> SYSTEM STATUS
 
-## `> SYSTEM STATUS`
-
-```text
 ╔══════════════════════════════════════════════════════════════╗
 ║                  VINICIUS DIGITAL CORE v2.026               ║
 ╠══════════════════════════════════════════════════════════════╣
@@ -35,29 +32,23 @@
 ║ SPECIALTY    :: n8n AUTOMATION & AI-POWERED DEVELOPMENT     ║
 ║ MINDSET      :: BUILD • AUTOMATE • LEARN • SCALE             ║
 ╚══════════════════════════════════════════════════════════════╝
-```
 
-> **"Transformando ideias em software, automações e soluções inteligentes."**
+"Transformando ideias em software, automações e soluções inteligentes."
 
----
+👨‍💻 SOBRE MIM
 
-# 👨‍💻 SOBRE MIM
+Olá! Eu sou Vinicius Garbuio de Castro Pereira, estudante de Engenharia de Software, empreendedor e apaixonado por tecnologia, inteligência artificial e desenvolvimento de soluções digitais.
 
-Olá! Eu sou **Vinicius Garbuio de Castro Pereira**, estudante de **Engenharia de Software**, empreendedor e apaixonado por tecnologia, inteligência artificial e desenvolvimento de soluções digitais.
-
-Minha atuação combina **desenvolvimento de software, automação de processos, inteligência artificial, bancos de dados, UX/UI e criação de produtos digitais**.
+Minha atuação combina desenvolvimento de software, automação de processos, inteligência artificial, bancos de dados, UX/UI e criação de produtos digitais.
 
 Tenho especial interesse em utilizar tecnologia para resolver problemas reais, automatizar processos repetitivos e transformar ideias em soluções que possam gerar valor para pessoas e empresas.
 
-Também sou **empresário e um dos responsáveis pela RKV Digital**, empresa voltada para **tecnologia, automação, inteligência artificial, marketing e soluções digitais**.
+Também sou empresário e um dos responsáveis pela RKV Digital, empresa voltada para tecnologia, automação, inteligência artificial, marketing e soluções digitais.
 
-Atualmente, venho aprofundando principalmente meus conhecimentos em **n8n, inteligência artificial e desenvolvimento de software utilizando ferramentas como Claude**, explorando novas formas de acelerar o desenvolvimento sem abrir mão de arquitetura, organização e qualidade.
+Atualmente, venho aprofundando principalmente meus conhecimentos em n8n, inteligência artificial e desenvolvimento de software utilizando ferramentas como Claude, explorando novas formas de acelerar o desenvolvimento sem abrir mão de arquitetura, organização e qualidade.
 
----
+🚀 O QUE EU FAÇO
 
-# 🚀 O QUE EU FAÇO
-
-```text
 ┌─────────────────────────────────────────────────────────────┐
 │                                                             │
 │  🤖 INTELIGÊNCIA ARTIFICIAL                                │
@@ -79,114 +70,147 @@ Atualmente, venho aprofundando principalmente meus conhecimentos em **n8n, intel
 │     RKV Digital • Produtos digitais • Soluções B2B         │
 │                                                             │
 └─────────────────────────────────────────────────────────────┘
-```
 
----
+🧠 CURRENTLY EXPLORING
 
-# 🧠 CURRENTLY EXPLORING
+🤖 Inteligência Artificial e LLMs
 
-* 🤖 Inteligência Artificial e LLMs
-* ⚙️ **n8n — automação e integração de sistemas**
-* 💻 Desenvolvimento de software
-* 🧠 Desenvolvimento assistido por IA com **Claude**
-* 🔗 APIs, Webhooks e integrações
-* 🐍 Python
-* ⚡ JavaScript / TypeScript
-* 🗄️ SQL / PostgreSQL / Supabase
-* 🎨 UX/UI e prototipagem
-* 🚀 SaaS e produtos digitais
-* 🧩 Engenharia de Prompts
-* 📐 Arquitetura e lógica de software
+⚙️ n8n — automação e integração de sistemas
 
----
+💻 Desenvolvimento de software
 
-# ⚡ TECH STACK
+🧠 Desenvolvimento assistido por IA com Claude
+
+🔗 APIs, Webhooks e integrações
+
+🐍 Python
+
+⚡ JavaScript / TypeScript
+
+🗄️ SQL / PostgreSQL / Supabase
+
+🎨 UX/UI e prototipagem
+
+🚀 SaaS e produtos digitais
+
+🧩 Engenharia de Prompts
+
+📐 Arquitetura e lógica de software
+
+⚡ TECH STACK
 
 <div align="center">
 
-### 💻 DEVELOPMENT
+💻 DEVELOPMENT
 
 <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,react,nextjs,nodejs,git,github" />
 
-### 🗄️ DATABASE & BACKEND
+🗄️ DATABASE & BACKEND
 
 <img src="https://skillicons.dev/icons?i=mysql,postgres,supabase,nodejs" />
 
-### 🤖 AI & AUTOMATION
+🤖 AI & AUTOMATION
 
 <img src="https://skillicons.dev/icons?i=python,n8n" />
 
-### 🎨 DESIGN
+🎨 DESIGN
 
 <img src="https://skillicons.dev/icons?i=figma,ps,ai" />
 
 </div>
 
----
+🛠️ SKILLS
 
-# 🛠️ SKILLS
+Área
 
-| Área                       | Tecnologias / Habilidades                     |
-| -------------------------- | --------------------------------------------- |
-| 💻 Desenvolvimento         | Python • JavaScript • TypeScript • HTML • CSS |
-| ⚡ Frontend                 | React • Next.js                               |
-| 🔧 Backend                 | Node.js • APIs • REST                         |
-| 🤖 Inteligência Artificial | LLMs • Prompt Engineering • AI Integration    |
-| ⚙️ Automação               | **n8n • Workflows • Webhooks • APIs**         |
-| 🧠 AI Development          | **Claude • AI-assisted software development** |
-| 🗄️ Banco de Dados         | SQL • PostgreSQL • MySQL • Supabase           |
-| 🎨 UX/UI                   | Figma • Prototipagem • Design de Interfaces   |
-| 🔧 Versionamento           | Git • GitHub                                  |
-| 🌐 Deploy                  | Netlify • Railway • Vercel                    |
-| 📊 Ferramentas             | Excel • SAP                                   |
+Tecnologias / Habilidades
 
----
+💻 Desenvolvimento
 
-# 🤝 SOFT SKILLS
+Python • JavaScript • TypeScript • HTML • CSS
+
+⚡ Frontend
+
+React • Next.js
+
+🔧 Backend
+
+Node.js • APIs • REST
+
+🤖 Inteligência Artificial
+
+LLMs • Prompt Engineering • AI Integration
+
+⚙️ Automação
+
+n8n • Workflows • Webhooks • APIs
+
+🧠 AI Development
+
+Claude • AI-assisted software development
+
+🗄️ Banco de Dados
+
+SQL • PostgreSQL • MySQL • Supabase
+
+🎨 UX/UI
+
+Figma • Prototipagem • Design de Interfaces
+
+🔧 Versionamento
+
+Git • GitHub
+
+🌐 Deploy
+
+Netlify • Railway • Vercel
+
+📊 Ferramentas
+
+Excel • SAP
+
+🤝 SOFT SKILLS
 
 Acredito que desenvolvimento de software não depende apenas de conhecimento técnico.
 
-### 🧩 Trabalho em equipe
+🧩 Trabalho em equipe
 
 Facilidade para colaborar em projetos, compartilhar conhecimento e trabalhar em conjunto na resolução de problemas.
 
-### 💬 Comunicação
+💬 Comunicação
 
 Busco comunicar ideias técnicas de maneira clara, objetiva e compreensível, facilitando a colaboração entre pessoas técnicas e não técnicas.
 
-### 🧠 Resolução de problemas
+🧠 Resolução de problemas
 
 Gosto de entender a causa do problema antes de buscar a solução, utilizando lógica, análise e experimentação.
 
-### 🚀 Proatividade
+🚀 Proatividade
 
 Tenho iniciativa para pesquisar, testar novas tecnologias e buscar maneiras melhores de executar uma tarefa.
 
-### 🔄 Adaptabilidade
+🔄 Adaptabilidade
 
 Tecnologia muda constantemente. Por isso, mantenho uma postura de aprendizado contínuo e adaptação a novas ferramentas e metodologias.
 
-### 👥 Liderança & Empreendedorismo
+👥 Liderança & Empreendedorismo
 
-A experiência com a **RKV Digital** também me permite desenvolver habilidades relacionadas a planejamento, tomada de decisão, negociação e visão de negócio.
+A experiência com a RKV Digital também me permite desenvolver habilidades relacionadas a planejamento, tomada de decisão, negociação e visão de negócio.
 
----
-
-# 🏢 RKV DIGITAL
+🏢 RKV DIGITAL
 
 <div align="center">
 
-### 🚀 Tecnologia • Automação • IA • Marketing
+🚀 Tecnologia • Automação • IA • Marketing
 
 </div>
 
-A **RKV Digital** é uma empresa criada com o objetivo de desenvolver **soluções inteligentes para empresas**, combinando tecnologia, inteligência artificial, automação e estratégias digitais.
+A RKV Digital é uma empresa criada com o objetivo de desenvolver soluções inteligentes para empresas, combinando tecnologia, inteligência artificial, automação e estratégias digitais.
 
-Nosso foco é utilizar tecnologia não apenas para criar sistemas, mas para **resolver problemas, automatizar processos e ajudar empresas a alcançar melhores resultados**.
+Nosso foco é utilizar tecnologia não apenas para criar sistemas, mas para resolver problemas, automatizar processos e ajudar empresas a alcançar melhores resultados.
 
-### Principais áreas:
+Principais áreas:
 
-```text
 🤖 Inteligência Artificial
 ⚙️ Automação de Processos
 🔗 Integrações com APIs
@@ -194,13 +218,10 @@ Nosso foco é utilizar tecnologia não apenas para criar sistemas, mas para **re
 🎯 Tráfego Pago
 💻 Desenvolvimento de Software
 🚀 Soluções Digitais
-```
 
-🌐 **[Conheça a RKV Digital](https://rkv-digital.netlify.app/)**
+🌐 Conheça a RKV Digital
 
----
-
-# 🚀 PROJETOS
+🚀 PROJETOS
 
 <div align="center">
 
@@ -209,13 +230,13 @@ Nosso foco é utilizar tecnologia não apenas para criar sistemas, mas para **re
 
 <td width="50%" valign="top">
 
-### 🤖 RKV Digital
+🤖 RKV Digital
 
 Empresa focada em tecnologia, automação, IA, marketing e desenvolvimento de soluções digitais.
 
-**Stack**
+Stack
 
-`React` `Next.js` `n8n` `Supabase` `Node.js`
+React Next.js n8n Supabase Node.js
 
 <a href="https://rkv-digital.netlify.app/">
 <img src="https://img.shields.io/badge/🌐%20VISITAR%20RKV-00F7FF?style=for-the-badge&logoColor=black">
@@ -225,13 +246,13 @@ Empresa focada em tecnologia, automação, IA, marketing e desenvolvimento de so
 
 <td width="50%" valign="top">
 
-### ⚙️ Automation Lab
+⚙️ Automation Lab
 
 Projetos de automação utilizando n8n, APIs, Webhooks e inteligência artificial.
 
-**Stack**
+Stack
 
-`n8n` `APIs` `Webhooks` `Python` `AI`
+n8n APIs Webhooks Python AI
 
 </td>
 
@@ -241,25 +262,25 @@ Projetos de automação utilizando n8n, APIs, Webhooks e inteligência artificia
 
 <td width="50%" valign="top">
 
-### 🧠 AI Software Lab
+🧠 AI Software Lab
 
 Experimentos de desenvolvimento de software utilizando inteligência artificial e ferramentas como Claude.
 
-**Stack**
+Stack
 
-`Claude` `Python` `JavaScript` `AI`
+Claude Python JavaScript AI
 
 </td>
 
 <td width="50%" valign="top">
 
-### 📊 Data & Systems
+📊 Data & Systems
 
 Projetos envolvendo bancos de dados, sistemas de informação, APIs e estruturação de dados.
 
-**Stack**
+Stack
 
-`SQL` `PostgreSQL` `Supabase` `Node.js`
+SQL PostgreSQL Supabase Node.js
 
 </td>
 
@@ -268,11 +289,8 @@ Projetos envolvendo bancos de dados, sistemas de informação, APIs e estrutura�
 
 </div>
 
----
+🖥️ CURRENT OBJECTIVES
 
-# 🖥️ CURRENT OBJECTIVES
-
-```bash
 vinicius@digital-core:~$ ./current_objectives.sh
 
 [████████████████████████████████] 100%  SOFTWARE ENGINEERING
@@ -293,11 +311,8 @@ vinicius@digital-core:~$ ./current_objectives.sh
 SYSTEM MESSAGE:
 
 "Technology becomes valuable when it solves a real problem."
-```
 
----
-
-# 📊 GITHUB ANALYTICS
+📊 GITHUB ANALYTICS
 
 <div align="center">
 
@@ -315,9 +330,7 @@ SYSTEM MESSAGE:
 
 </div>
 
----
-
-# 📈 ACTIVITY GRAPH
+📈 ACTIVITY GRAPH
 
 <div align="center">
 
@@ -325,9 +338,7 @@ SYSTEM MESSAGE:
 
 </div>
 
----
-
-# 🏆 GITHUB TROPHIES
+🏆 GITHUB TROPHIES
 
 <div align="center">
 
@@ -335,9 +346,7 @@ SYSTEM MESSAGE:
 
 </div>
 
----
-
-# 🐍 CONTRIBUTION MATRIX
+🐍 CONTRIBUTION MATRIX
 
 <div align="center">
 
@@ -345,9 +354,7 @@ SYSTEM MESSAGE:
 
 </div>
 
----
-
-# 🌐 CONNECT WITH ME
+🌐 CONNECT WITH ME
 
 <div align="center">
 
@@ -361,18 +368,16 @@ SYSTEM MESSAGE:
 
 </div>
 
----
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:071A2F,100:050816&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF9D2E,50:FF6B00,100:1A0B00&height=120&section=footer"/>
 
-### `SYSTEM ONLINE • KEEP BUILDING • KEEP LEARNING`
+SYSTEM ONLINE • KEEP BUILDING • KEEP LEARNING
 
 <br>
 
-**© 2026 Vinicius Garbuio de Castro Pereira**
+© 2026 Vinicius Garbuio de Castro Pereira
 
-`Software Engineering • AI • Automation • Entrepreneurship`
+Software Engineering • AI • Automation • Entrepreneurship
 
 </div>
