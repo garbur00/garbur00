@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=750&lines=SYSTEM+INITIALIZING...;;SOFTWARE+ENGINEERING+STUDENT;AI+%7C+AUTOMATION+%7C+SOFTWARE+DEVELOPMENT;BUILDING+IDEAS+INTO+REAL+SOLUTIONS" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=750&lines=;;SOFTWARE+ENGINEERING+STUDENT;AI+%7C+AUTOMATION+%7C+SOFTWARE+DEVELOPMENT;BUILDING+IDEAS+INTO+REAL+SOLUTIONS" alt="Typing Animation" />
 
 <br>
 
