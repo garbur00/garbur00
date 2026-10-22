@@ -48,7 +48,7 @@ Também sou empresário e um dos responsáveis pela RKV Digital, empresa voltada
 Atualmente, venho aprofundando principalmente meus conhecimentos em n8n, inteligência artificial e desenvolvimento de software utilizando ferramentas como Claude, explorando novas formas de acelerar o desenvolvimento sem abrir mão de arquitetura, organização e qualidade.
 
 🚀 O QUE EU FAÇO
-┌──
+
                                                        
 │  🤖 INTELIGÊNCIA ARTIFICIAL                                
 │     Integração de LLMs • Prompt Engineering • AI Solutions 
@@ -67,8 +67,8 @@ Atualmente, venho aprofundando principalmente meus conhecimentos em n8n, intelig
 │                                                             
 │  🚀 EMPREENDEDORISMO                                         
 │     RKV Digital • Produtos digitais • Soluções B2B         
-│                                                             
-└───────────────────────────────────────────────
+                                                            
+
 
 🧠 CURRENTLY EXPLORING
 
