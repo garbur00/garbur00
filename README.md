@@ -50,26 +50,26 @@ Atualmente, venho aprofundando principalmente meus conhecimentos em n8n, intelig
 🚀 O QUE EU FAÇO
 
 ┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│  🤖 INTELIGÊNCIA ARTIFICIAL                                │
-│     Integração de LLMs • Prompt Engineering • AI Solutions │
-│                                                             │
-│  ⚙️ AUTOMAÇÃO                                               │
-│     n8n • APIs • Webhooks • Workflows • Integrações        │
-│                                                             │
-│  💻 SOFTWARE                                                 │
-│     Aplicações Web • Sistemas • SaaS • APIs                │
-│                                                             │
-│  🧠 AI-ASSISTED DEVELOPMENT                                 │
-│     Claude • Desenvolvimento acelerado • Prototipagem      │
-│                                                             │
-│  📊 DADOS                                                    │
-│     SQL • PostgreSQL • Supabase • Estruturação de dados    │
-│                                                             │
-│  🚀 EMPREENDEDORISMO                                         │
-│     RKV Digital • Produtos digitais • Soluções B2B         │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
+                                                           
+│  🤖 INTELIGÊNCIA ARTIFICIAL                                
+│     Integração de LLMs • Prompt Engineering • AI Solutions 
+│                                                             
+│  ⚙️ AUTOMAÇÃO                                               
+│     n8n • APIs • Webhooks • Workflows • Integrações        
+│                                                             
+│  💻 SOFTWARE                                                 
+│     Aplicações Web • Sistemas • SaaS • APIs                
+│                                                             
+│  🧠 AI-ASSISTED DEVELOPMENT                                 
+│     Claude • Desenvolvimento acelerado • Prototipagem      
+│                                                             
+│  📊 DADOS                                                    
+│     SQL • PostgreSQL • Supabase • Estruturação de dados    
+│                                                             
+│  🚀 EMPREENDEDORISMO                                         
+│     RKV Digital • Produtos digitais • Soluções B2B         
+│                                                             
+└────────────────────────────────────────────────────────
 
 🧠 CURRENTLY EXPLORING
 
