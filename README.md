@@ -22,16 +22,16 @@
 
 > SYSTEM STATUS
 
-╔══════════════════════════════════════════════════════════════╗
-║                  VINICIUS DIGITAL CORE v2.026               ║
-╠══════════════════════════════════════════════════════════════╣
+
+║                  VINICIUS DIGITAL CORE v2.026                ║
+
 ║ STATUS       :: ONLINE                                       ║
 ║ ROLE         :: SOFTWARE ENGINEERING STUDENT                 ║
 ║ ENTREPRENEUR :: RKV DIGITAL                                  ║
 ║ FOCUS        :: SOFTWARE • AI • AUTOMATION • UX/UI           ║
-║ SPECIALTY    :: n8n AUTOMATION & AI-POWERED DEVELOPMENT     ║
+║ SPECIALTY    :: n8n AUTOMATION & AI-POWERED DEVELOPMENT      ║
 ║ MINDSET      :: BUILD • AUTOMATE • LEARN • SCALE             ║
-╚══════════════════════════════════════════════════════════════╝
+
 
 "Transformando ideias em software, automações e soluções inteligentes."
 
